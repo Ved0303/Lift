@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Hi Ved ji bhai
+Hi Ved 
 </body>
 </html>
